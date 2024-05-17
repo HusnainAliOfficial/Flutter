@@ -15,7 +15,9 @@
 - Generate Chat
 - Text to Speech
 - Speech to text
-
+## what you need to change
+-File ib/firebase/firebase.dart
+-in  this file you need to write down your firebase creditional 
 ## Data base
 - Firebase is use for store Creditional
 - in Firebase Authentication and firebase firesotre and storage is used
@@ -29,6 +31,5 @@
  
 ## Atlast the project Output is Look Like this :
 
-
-
+![login Page Connected with firebase](https://github.com/HusnainAliOfficial/Flutter-/assets/141839505/6ed78d15-5596-43be-887f-c30ba930c806)
   

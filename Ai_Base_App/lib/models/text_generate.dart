@@ -27,7 +27,7 @@ class _Generate_TextState extends State<Generate_Text>
     super.initState();
     _model = GenerativeModel(
       model: 'gemini-pro',
-      apiKey: 'AIzaSyAQR3yTwio7_uptKLp9wZMXwSD5_4OkuKs',
+      apiKey: 'Enter your api key here',
     );
     _chat = _model.startChat();
   }

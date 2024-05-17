@@ -1,16 +1,17 @@
-# project
+# Ai Base Flutter App
 
-A new Flutter project.
+## Modules List
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login Page
+- Signup Page
+- Forget Password at Login Page
+- Home Screen
+- Model Screen
+- Profile Screen
+- Edit Profile
+- Change Passwrod
+- Logout
+- Delete Account
+- Generate Chat
+- Text to Speech
+- Speech to text

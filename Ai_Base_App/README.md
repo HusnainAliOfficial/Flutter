@@ -16,8 +16,10 @@
 - Text to Speech
 - Speech to text
 ## what you need to change
--File ib/firebase/firebase.dart
+-File lib/firebase/firebase.dart
 -in  this file you need to write down your firebase creditional 
+-File  lib/models/generate_text.dart
+-in this file paste you google gemini api key
 ## Data base
 - Firebase is use for store Creditional
 - in Firebase Authentication and firebase firesotre and storage is used

@@ -1,8 +1,8 @@
 # Flutter
 
-Flutter projects are here if you want to build an flutter project this will be very useful for you
 
--in thses projects which things should be covered already
+### If you're looking to build a Flutter project, you'll find these projects very useful.
 
--Database used in these projects
-  --Firebase 
+-- Key components to be covered in these projects include:
+
+--The database used in these projects is Firebase.
